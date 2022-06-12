@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Gym_Management_System.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="dataSourcePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\\</Value>
+    </Setting>
+    <Setting Name="accessTableName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">members</Value>
+    </Setting>
+    <Setting Name="imagesLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\\Images</Value>
+    </Setting>
+    <Setting Name="settingsState" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="contactNumber" Type="System.String" Scope="User">
+      <Value Profile="(Default)">+92 </Value>
+    </Setting>
+    <Setting Name="gymAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ali abad road, Brewry, Quetta</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
